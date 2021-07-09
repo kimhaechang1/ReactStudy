@@ -70,6 +70,7 @@ package.json 에 버전 확인
 
 ## babel 설치
 .jsx -> .js로 변환목적
+
 프로젝트 단위로 설치 
 
 
