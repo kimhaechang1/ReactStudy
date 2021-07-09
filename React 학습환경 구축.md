@@ -1,4 +1,4 @@
-#React 환경을 만들어 보자
+# React 환경을 만들어 보자
 
 npm, node.js 설치
 보통 nodejs 설치 하면 자동으로 npm도 설치 됨
