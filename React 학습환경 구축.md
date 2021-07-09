@@ -1,4 +1,6 @@
-1. npm, node.js 설치
+#React 환경을 만들어 보자
+
+npm, node.js 설치
 보통 nodejs 설치 하면 자동으로 npm도 설치 됨
 
 2. 기본 파일 형성
@@ -12,7 +14,7 @@ index.html 생성 후
 js폴더 및 jsx 폴더 생성
 jsx폴더에 .jsx 파일만, js폴더에 .js 파일만...
 
-```
+```HTML
 in index.html...
 <!DOCTYPE html>
 <html>
@@ -42,6 +44,7 @@ cd 프로젝트 폴더경로
 ```
 http-server ./
 ```
+
 4. React 설치
 
 프로젝트단위로 설치 
@@ -51,7 +54,6 @@ cd 프로젝트 폴더 경로
 ```
 npm install react@15 react-dom@15
 ```
-
 package.json 에 버전 확인
 
 5. babel 설치
