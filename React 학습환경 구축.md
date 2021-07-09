@@ -103,4 +103,5 @@ package.json에서
 
 ## 혹시 VS CODE를 쓴다면...
 왼쪽 카테고리에 '확장' 클릭
-Reactjs code snippets 
+
+Reactjs code snippets 설치
