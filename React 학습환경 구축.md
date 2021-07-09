@@ -31,7 +31,7 @@ in index.html...
 ```
 
 ## http-server 설치 (Apache로 대체 할 예정)
-스스로 만든 웹 테스트용
+스스로 만든 웹 테스트 목적
 
 명령 프롬프트 실행 후
 ```
@@ -39,7 +39,9 @@ npm install http-server
 ```
 
 실행은 프로젝트 단위로 실행
+
 명령프롬프트 실행 후
+
 cd 프로젝트 폴더경로
 ```
 http-server ./
@@ -49,6 +51,7 @@ http-server ./
 프로젝트단위로 설치 
 
 명령프롬프트 실행 후
+
 cd 프로젝트 폴더 경로
 ```
 npm install react@15 react-dom@15
