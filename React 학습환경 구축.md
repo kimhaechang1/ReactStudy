@@ -92,12 +92,12 @@ cd 명령어로 프로젝트 폴더 경로로 이동한 후
 npx babel jsx/JSX_FILE_NAME.jsx -o js/JAVASCRIPT_FILE_NAME.js
 ```
 
-*주의 
+*주의*
 ```
 package.json에서
 "babel": {
     "presets": [ "@babel/preset-react" ]
   },
   ```
-이 부분 꼭 넣어줘야 npx babel 실행됨 (이미 되어 있다면 무시)
+*이 부분 꼭 넣어줘야 npx babel 실행됨 (이미 되어 있다면 무시)*
 
