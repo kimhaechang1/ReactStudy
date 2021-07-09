@@ -99,7 +99,7 @@ package.json에서
     "presets": [ "@babel/preset-react" ]
   },
   ```
-**이 부분 꼭 넣어줘야 npx babel 실행됨 (이미 되어 있다면 무시)**
+**이 부분 있어야 npx babel 실행됨 (이미 되어 있다면 무시)**
 
 ## 혹시 VS CODE를 쓴다면...
 왼쪽 카테고리에 '확장' 클릭
